@@ -2,9 +2,13 @@
 
 Alunos do 1 Ano  A  do  Componente Curricular Pensamento Computacional
 
-## Lingu ut  utilizada
+## Linguagem  utilizada
 - HTML
 -  CSS
 
 ## Softwares
 Para manuseio do projeto você  precisará de um desses  Softwares
+- VS Code
+- Sublime
+- Atom
+- Codepen
