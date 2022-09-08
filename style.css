@@ -1,0 +1,23 @@
+body {
+    background: #cccccc;
+}
+
+#fachada{
+    width: 100%;
+}
+
+h1 {
+    text-align: center
+}
+
+
+p {
+    text-align: center
+}
+
+#filosofia {
+    font-size: 20px
+}
+strong em {
+    color: blue;
+}
